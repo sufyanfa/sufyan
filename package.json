@@ -1,0 +1,26 @@
+{
+  "name": "Sufyan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.2",
+    "autoprefixer": "^10.0.3",
+    "core-js": "^3.6.5",
+    "nuxt": "^2.14.6",
+    "nuxt-i18n": "^6.15.4",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.0.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/color-mode": "^2.0.0",
+    "@nuxtjs/google-analytics": "^2.4.0",
+    "@nuxtjs/tailwindcss": "^3.1.0",
+    "tailwindcss-dark-mode": "^1.1.7"
+  }
+}
